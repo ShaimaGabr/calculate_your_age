@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomHiltHindi</string>
+    <string name="save_degree">Save Degree</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_your_age">Enter your age</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_info">you don\'t have any info, when you save an info you will see it here</string>
+    <string name="ages">Ages</string>
+    <string name="add_user">Add your age</string>
+    <string name="name">Name</string>
+</resources>
